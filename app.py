@@ -78,4 +78,4 @@ def exec_remote_command():
 
 
 if __name__ == '__main__':
-    socketio.run(app, host="0.0.0.0", port=5555)
+    socketio.run(app, host="0.0.0.0", port=5000)
